@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "Pelé",
+        "notas": [5,2,3,10]
+    },
+    {
+        "nome": "Zubumafu",
+        "notas": [10,2,3,10]
+    },
+    {
+        "nome": "Katiroba",
+        "notas": [7,6,5,9]
+    }
+]
